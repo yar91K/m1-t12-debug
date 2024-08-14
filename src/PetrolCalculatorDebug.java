@@ -5,6 +5,7 @@ public class PetrolCalculatorDebug {
         new PetrolCalculatorDebug().calculate();
     }
  int X = 1;
+    int y=2;
     public void calculate() {
         Scanner scanner = new Scanner(System.in);
         System.out.print("Введите тип топлива: 1 - АИ-92, 2 - АИ-95, 3 - АИ-100 => ");
